@@ -1,3 +1,3 @@
 # actividad
 Plantilla para desarrollo de actividades
-apreciacion  global((luz daniela))
+[luz daniela](apreciacion global.md)
