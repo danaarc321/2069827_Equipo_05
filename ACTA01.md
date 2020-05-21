@@ -14,6 +14,7 @@
 
 Realizar el cierre de la integracion del proyecto y planear la realizacion de las proximas actividades.
 
+![foto](documentacion/Screen Shot 2020-05-21 at 1.10.14 PM.png)
 
                                               **DESARROLLO DE LA REUNION**
 
