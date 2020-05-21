@@ -4,13 +4,13 @@
 
 **CIUDAD Y FECHA: Barranquilla - 14/05/2020**
 
-LUGAR: Encuentro online via zoom
+**LUGAR:** Encuentro online via zoom
 
-HORA DE INICIO: 2:30 pm
+**HORA DE INICIO:** 2:30 pm
 
-TEMAS: Cierre del pryecto (SOFCOL) y planeacion del proyecto en general
+**TEMAS:** Cierre del pryecto (SOFCOL) y planeacion del proyecto en general
 
-- OBJETIVOS DE LA REUNION**
+- **OBJETIVOS DE LA REUNION**
 
 Realizar el cierre de la integracion del proyecto y planear la realizacion de las proximas actividades.
 
