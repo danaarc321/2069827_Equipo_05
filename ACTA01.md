@@ -1,6 +1,6 @@
-                                                  **ACTA No.01**
+# ACTA No.01
 
-                                          **REUNION PARA CONCRETAR EL SOFTWARE**
+## REUNION PARA CONCRETAR EL SOFTWARE
 
 **CIUDAD Y FECHA:** Barranquilla - 14/05/2020
 
