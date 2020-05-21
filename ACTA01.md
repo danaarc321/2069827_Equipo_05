@@ -2,7 +2,7 @@
 
                                           **REUNION PARA CONCRETAR EL SOFTWARE**
 
-**CIUDAD Y FECHA: Barranquilla - 14/05/2020
+**CIUDAD Y FECHA: Barranquilla - 14/05/2020**
 
 LUGAR: Encuentro online via zoom
 
