@@ -1,5 +1,6 @@
 # ACTA No.01
 
+
 ## REUNION PARA CONCRETAR EL SOFTWARE
 
 **CIUDAD Y FECHA:** Barranquilla - 14/05/2020
@@ -8,33 +9,29 @@
 
 **HORA DE INICIO:** 2:30 pm
 
-**TEMAS:** Cierre del pryecto (SOFCOL) y planeacion del proyecto en general
+**TEMAS:**  Selección de empresa
 
 - **OBJETIVOS DE LA REUNION**
 
-Realizar el cierre de la integracion del proyecto y planear la realizacion de las proximas actividades.
+Escoger el sector productivo al cual se quiere impactar
 
-![foto](documentacion/Screen Shot 2020-05-21 at 1.10.14 PM.png)
+![foto](documentacion/Screen Shot 2020-05-21 at 1.10.14 PM.png "screen shot")
 
-                                              **DESARROLLO DE LA REUNION**
+- **DESARROLLO DE LA REUNION**
 
-1. se le notifico a cada asistente los puntos a trabajar.
+Al dar inicio a esta reunión la compañera luz Daniela de la rosa tomó la iniciativa a trabajar en el sector de la educación en el cual todos estuvimos de acuerdo donde también la compañera Dana aportó que tenía muchos contactos de instituciones que se prestarían para conocer nuestro proyecto y aceptarlo.
+El compañero Héctor estuvo de acuerdo que se utilizarán los contactos de la compañera Danna para llevar a cabo nuestro proyecto donde mediante unas visitas elegiríamos solamente una de estas.
 
-2. se eligio la manera de trabajar en equipo en progreso del proyecto.
+- **CONCLUCIONES**
 
-3. se aclararon las dudas que teniamos para comenzar a trabajar.
+Mediante esta reunión se concretó que el sector en el que trabajaremos nuestro proyecto es el sector de la educación, se planteó agendar otra reunión para concretar quien se encargará de representar nuestro proyecto en una respectiva institución.
 
+- **PARTICIPANTES**
 
-                                                    **CONCLUCIONES**
+**NOMBRES DE LOS APRENDICES**  
 
-Se definio el proyecto **(SOFCOL)** y se plantearon las ideas claves para comenzar a trabajar en el proyecto asumiendo la responsabilidad de cada uno de los integrantes que estuvieron en la reunion.
+HECTOR ANDRES CASTRO
 
-                **ASISTENTES**
+DANNA ARCON
 
-**NOMBRES**                               **CARGO**  
-
-HECTOR CASTRO                               APRENDIZ
-
-DANNA ARCON                                 APRENDIZ
-
-DANIELA DE LA ROSA                          APRENDIZ
+LUZ DANIELA DE LA ROSA

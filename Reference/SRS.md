@@ -1,8 +1,8 @@
-###SRS
+# SRS
 
-##Introduccion
+## Introducción
 
-1. Proposito
+1. Propósito
 
 2. Alcance
 
@@ -10,13 +10,12 @@
 
 4. Referencias
 
-5. Apreciacion Global
-
-
-
-* Proposito
+5. Apreciación Global
 
 ***
+
+* Alcance
+
 
 * Actualmente la institución no cuenta con sistema de gestión de información que le permita controlar de manera eficaz su base de datos.
 
@@ -24,6 +23,6 @@
 
 `Las gestiones que conforman el sistema de información son las siguientes:`
 
-1.**Gestión de registro del estudiante o profesor:** se encargara de registrar la información personal de cada estudiante o profesor.
+1.**Gestión de registro del estudiante o profesor:** se encargará de registrar la información personal de cada estudiante o profesor.
 
-2.**Gestión de informes:** se encargara de proporcionar informes de notas de los estudiantes por cada periodo de estudio.
+2.**Gestión de informes:** se encargará de proporcionar informes de notas de los estudiantes por cada periodo de estudio.
