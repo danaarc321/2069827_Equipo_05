@@ -15,7 +15,7 @@
 
 Escoger el sector productivo al cual se quiere impactar
 
-![foto](documentacion/Screen Shot 2020-05-21 at 1.10.14 PM.png "screen shot")
+![foto](documentacion/Captura1.PNG)
 
 - **DESARROLLO DE LA REUNION**
 
@@ -24,7 +24,11 @@ El compañero Héctor estuvo de acuerdo que se utilizarán los contactos de la c
 
 - **CONCLUCIONES**
 
-Mediante esta reunión se concretó que el sector en el que trabajaremos nuestro proyecto es el sector de la educación, se planteó agendar otra reunión para concretar quien se encargará de representar nuestro proyecto en una respectiva institución.
+Mediante esta reunión se concretó que el sector en el que trabajaremos nuestro proyecto es el sector de la educación.
+
+- **COMPROMISO**
+
+Se planteó agendar otra reunión para concretar quien se encargará de representar nuestro proyecto en una respectiva institución.
 
 - **PARTICIPANTES**
 
