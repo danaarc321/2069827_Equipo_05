@@ -14,15 +14,17 @@
 
 ***
 
-* **Alcance**
+**Alcance (Ambito del sistema)**
 
 
-* Actualmente la institución no cuenta con sistema de gestión de información que le permita controlar de manera eficaz su base de datos.
+*	Nombre del sistema: SOFCOL, “software colegial”
 
-* Es importante resaltar que el sistema controlara y registrara la información de los estudiantes y profesores y otras personas que se encuentren vinculadas a la institución, llevando a cabo estos procesos se vera reflejado la eficacia en la búsqueda de información en la cual se vera beneficiado el usuario que la requiera.
+*	El sistema será una aplicación web que gestionará los procesos administrativos y educativos de la institución (    ) haciendo modificaciones de registros de alumnos, personal docente y no docente; manejo de reportes (calificaciones, grupos, materias, horarios);  Seguimientos a los alumnos de la institución (Datos personales e historial de calificaciones).
+No realizará transacciones bancarias.
 
-`Las gestiones que conforman el sistema de información son las siguientes:`
+*	El principal beneficiado con SOFCOL es la institución educativa (  ).
 
-1. **Gestión de registro del estudiante o profesor:** Se encargará de registrar la información personal de cada estudiante o profesor.
+* Se capacitará solo a 10 personas que la institución sugiera.
+La información que requiera este software será digitada por las 10 personas capacitadas o las que la institución contrate.
 
-2. **Gestión de informes:** Se encargará de proporcionar informes de notas de los estudiantes por cada periodo de estudio.
+* Este proyecto no incluye la compra de hosting, dominio,
