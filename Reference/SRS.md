@@ -4,7 +4,7 @@
 
 1. Propósito
 
-2. Alcance
+2. Alcance (Ambito del sistema)
 
 3. Definiciones, Acronimos y Abreviaturas
 
@@ -12,7 +12,29 @@
 
 5. Apreciación Global
 
+## Descripción General
+
+6. Perspectiva del Producto
+
+7. Funciones del Producto
+
+8. Caracteristicas de los Usuarios
+
+9. Restricciones
+
+10. Suposiciones y Dependencias
+
+## Requerimientos Especificos
+
+11. Requerimientos Funcionales
+
+12. Requerimientos no Funcionales
+
 ***
+
+## Itrodución
+
+En el presente documento se explicarán y analizarán los requisitos del proyecto “Software Colegial”, desarrollado por aprendices del SENA (Centro industrial y de aviación).
 
 **Alcance (Ambito del sistema)**
 
